@@ -4,7 +4,7 @@ import { MdOutlineEmail } from 'react-icons/md';
 const Footer = () => {
   return (
     <footer>
-      <div className='justify-between px-4 py-12 text-center'>
+      <div className='px-4 py-12 text-center'>
         <div className='pt-2 pb-6'>
           <h2 className='text-headline text-xl'>DevLearn</h2>
           <p className='text-paragraph'>
@@ -13,19 +13,20 @@ const Footer = () => {
           </p>
         </div>
 
-        <div className='justify-between pb-12 text-center'>
+        <div className='pb-12 md:pb-6 text-center'>
           <h2 className='text-headline'>Contact</h2>
           <ul className='mt-2'>
             <li className='flex items-center gap-2 justify-center text-base text-paragraph'>
               <FaWhatsapp />
-              +62 812-3456-7890
+              +628128000000
             </li>
             <li className='flex items-center gap-2 justify-center text-lg text-paragraph'>
               <MdOutlineEmail />
-              testaja@gmail.com
+              DevLearn@gmail.com
             </li>
           </ul>
         </div>
+
         <div className='flex flex-col items-center'>
           <h2 className='text-headline text-lg'>Location</h2>
           <iframe
