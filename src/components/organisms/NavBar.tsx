@@ -14,7 +14,7 @@ const NavBar = () => {
       <div className='flex justify-between'>
         <div className='flex items-center gap-2'>
           <img
-            src='/public/images/navigation bar/laptop.svg'
+            src='/images/navigation bar/laptop.svg'
             alt='DevLearn Logo'
             width={40}
           />
