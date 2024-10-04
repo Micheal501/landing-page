@@ -3,7 +3,7 @@ const Cards = () => {
     <div className='border border-white rounded-md w-5/6 h-56 flex-none'>
       <div className='flex items-center'>
         <img
-          src='/public/images/testimonials/avatar-man.svg'
+          src='/images/testimonials/avatar-man.svg'
           alt='Avatar man'
           className='border border-white rounded-full w-16 h-16 m-2'
         />
