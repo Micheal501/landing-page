@@ -12,27 +12,27 @@ const Cards = () => {
           <p className='text-paragraph mx-2'>Software Engineer at Gojek</p>
           <div className='flex mx-2 gap-1'>
             <img
-              src='/public/images/testimonials/star.svg'
+              src='/images/testimonials/star.svg'
               alt='rating'
               className='w-1/12'
             />
             <img
-              src='/public/images/testimonials/star.svg'
+              src='/images/testimonials/star.svg'
               alt='rating'
               className=' w-1/12'
             />
             <img
-              src='/public/images/testimonials/star.svg'
+              src='/images/testimonials/star.svg'
               alt='rating'
               className=' w-1/12'
             />
             <img
-              src='/public/images/testimonials/star.svg'
+              src='/images/testimonials/star.svg'
               alt='rating'
               className=' w-1/12'
             />
             <img
-              src='/public/images/testimonials/star.svg'
+              src='/images/testimonials/star.svg'
               alt='rating'
               className=' w-1/12'
             />
