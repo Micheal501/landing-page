@@ -1,7 +1,7 @@
 const Cards = () => {
   return (
-    <div className='border border-white rounded-md w-5/6 h-56 flex-none'>
-      <div className='flex items-center'>
+    <div className='border border-white rounded-md w-5/6 md:w-4/6 h-56 flex-none'>
+      <div className='flex items-center p-4'>
         <img
           src='/images/testimonials/avatar-man.svg'
           alt='Avatar man'
@@ -14,27 +14,27 @@ const Cards = () => {
             <img
               src='/images/testimonials/star.svg'
               alt='rating'
-              className='w-1/12'
+              className='w-1/12 md:w-6'
             />
             <img
               src='/images/testimonials/star.svg'
               alt='rating'
-              className=' w-1/12'
+              className=' w-1/12 md:w-6'
             />
             <img
               src='/images/testimonials/star.svg'
               alt='rating'
-              className=' w-1/12'
+              className=' w-1/12 md:w-6'
             />
             <img
               src='/images/testimonials/star.svg'
               alt='rating'
-              className=' w-1/12'
+              className=' w-1/12 md:w-6'
             />
             <img
               src='/images/testimonials/star.svg'
               alt='rating'
-              className=' w-1/12'
+              className=' w-1/12 md:w-6'
             />
           </div>
         </div>
