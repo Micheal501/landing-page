@@ -6,7 +6,7 @@ const Features = () => {
       {featuresData.map((features) => (
         <ul
           key={features.id}
-          className='flex items-start gap-3 px-4 text-paragraph'
+          className='flex items-start gap-3 px-4 md:ml-12 text-paragraph'
         >
           <li className='flex mt-6 gap-3'>
             <img
