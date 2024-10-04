@@ -3,7 +3,7 @@ import courseData from '../../data/courseData';
 const Course = () => {
   return (
     <div className='px-4'>
-      <h2 className='text-headline text-center mt-36 text-2xl'>
+      <h2 className='text-headline text-center mt-16 text-2xl'>
         What You`ll Learn
       </h2>
       <ul className='list-disc text-paragraph px-10 mt-3 flex flex-col gap-3'>
