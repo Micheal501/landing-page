@@ -1,7 +1,7 @@
 const Cards = () => {
   return (
-    <div className='border border-white rounded-md w-5/6 md:w-4/6 h-56 flex-none'>
-      <div className='flex items-center p-4'>
+    <div className='border border-white rounded-md w-5/6 md:w-4/6 h-56 flex-none lg:w-1/4 mb-2'>
+      <div className='flex items-center md:p-4'>
         <img
           src='/images/testimonials/avatar-man.svg'
           alt='Avatar man'
