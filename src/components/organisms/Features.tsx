@@ -9,7 +9,7 @@ const Features = () => {
         <ul className='flex flex-col gap-3 px-4 md:ml-12 text-paragraph'>
           <li className='flex mt-6 gap-3 lg:items-center'>
             <img
-              src='/public/images/features section/interactive.svg'
+              src='/images/features section/interactive.svg'
               alt='Interactive Icon'
               width={24}
               height={24}
@@ -21,7 +21,7 @@ const Features = () => {
           </li>
           <li className='flex mt-6 gap-3 lg:items-center'>
             <img
-              src='/public/images/features section/mentorship.svg'
+              src='/images/features section/mentorship.svg'
               alt='Mentorship Icon'
               width={24}
               height={24}
@@ -36,7 +36,7 @@ const Features = () => {
         <ul className='flex flex-col gap-3 px-4 md:ml-12 text-paragraph'>
           <li className='flex mt-6 gap-3 lg:items-center'>
             <img
-              src='/public/images/features section/community.svg'
+              src='/images/features section/community.svg'
               alt='Community Icon'
               width={24}
               height={24}
@@ -49,7 +49,7 @@ const Features = () => {
           </li>
           <li className='flex mt-6 gap-3 lg:items-center'>
             <img
-              src='/public/images/features section/certificate.svg'
+              src='/images/features section/certificate.svg'
               alt='Certificate Features Icon'
               width={24}
               height={24}
